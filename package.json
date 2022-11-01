@@ -2,7 +2,7 @@
   "devDependencies": {
     "autoprefixer": "^6.1.0",
     "emitty": "^1.4.0",
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.2",
     "gulp-cached": "^1.1.1",
     "gulp-changed": "^3.1.0",
     "gulp-clean-css": "^3.9.0",
